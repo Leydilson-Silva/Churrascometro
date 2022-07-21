@@ -1,5 +1,5 @@
 # Churrascometro
-Projeto realizado durante aulas do curso programador BR, visa medir a quantidade em KG de carne e bebidas em litros necessário para realização de um churrasco levendo em consideralção quantidade de adultos, crianças e duração do churrasco em horas.
+Pagina visa medir a quantidade em KG de carne e bebidas em litros necessário para realização de um churrasco levendo em consideralção quantidade de adultos, crianças e duração do churrasco em horas.
 
  
  Regras de negocio:
