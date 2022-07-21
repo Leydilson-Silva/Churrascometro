@@ -1,6 +1,7 @@
-# Churrascometro - https://leydilson-silva.github.io/Churrascometro/
+# Churrascometro
 Pagina visa medir a quantidade em KG de carne e bebidas em litros necessário para realização de um churrasco levendo em consideralção quantidade de adultos, crianças e duração do churrasco em horas.
 
+https://leydilson-silva.github.io/Churrascometro/
  
  Regras de negocio:
     
