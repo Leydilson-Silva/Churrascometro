@@ -16,3 +16,4 @@ https://leydilson-silva.github.io/Churrascometro/
 
     Criaças valem por 0,5.
 
+![image](https://user-images.githubusercontent.com/60554356/180315911-62f8fd2c-dba1-4fbb-aad4-4c5b1eadbff5.png)
